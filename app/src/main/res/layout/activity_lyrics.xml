@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.paulasmusicapp.LyricsActivity">
+
+    <Button
+        android:id="@+id/musixmatch"
+        style="@style/CategoryStyle"
+        android:text="MusixMatch"
+        android:background="@color/category_musixmatch"/>
+
+    <Button
+        android:id="@+id/lyricsworld"
+        style="@style/CategoryStyle"
+        android:text="Lyrics World"
+        android:background="@color/category_lyricsworld"/>
+
+    <Button
+        android:id="@+id/azlyrics"
+        style="@style/CategoryStyle"
+        android:text="AZLyrics"
+        android:background="@color/category_azlyrics" />
+
+    <Button
+        android:id="@+id/songlyrics"
+        style="@style/CategoryStyle"
+        android:text="Song Lyrics"
+        android:background="@color/category_songlyrics" />
+
+</LinearLayout>
+

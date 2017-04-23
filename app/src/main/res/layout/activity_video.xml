@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.paulasmusicapp.VideoActivity">
+
+    <Button
+        android:id="@+id/vyoutube"
+        style="@style/CategoryStyle"
+        android:text="Video YouTube"
+        android:background="@color/category_vyoutube"/>
+
+    <Button
+        android:id="@+id/godtube"
+        style="@style/CategoryStyle"
+        android:text="GodTube"
+        android:background="@color/category_godtube"/>
+
+    <Button
+        android:id="@+id/apple"
+        style="@style/CategoryStyle"
+        android:text="Apple"
+        android:background="@color/category_apple" />
+
+</LinearLayout>

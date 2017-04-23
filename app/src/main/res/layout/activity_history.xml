@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.paulasmusicapp.HistoryActivity">
+
+    <Button
+        android:id="@+id/artist"
+        style="@style/CategoryStyle"
+        android:text="Artist History"
+        android:background="@color/category_artist"/>
+
+    <Button
+        android:id="@+id/album"
+        style="@style/CategoryStyle"
+        android:text="Album History"
+        android:background="@color/category_album"/>
+
+    <Button
+        android:id="@+id/play"
+        style="@style/CategoryStyle"
+        android:text="Play History"
+        android:background="@color/category_play" />
+
+    <Button
+        android:id="@+id/purchase"
+        style="@style/CategoryStyle"
+        android:text="Your Purchase History"
+        android:background="@color/category_purchase" />
+
+</LinearLayout>
+

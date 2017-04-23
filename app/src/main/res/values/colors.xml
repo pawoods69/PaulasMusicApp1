@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#4A312A</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Background color for the music they want to hear now category -->
+    <color name="category_now">#E91E63</color>
+
+    <!-- Background color for the history category -->
+    <color name="category_history">#6A1B9A</color>
+
+    <!-- Background color for the lyrics category -->
+    <color name="category_lyrics">#4527A0</color>
+
+    <!-- Background color for the video category -->
+    <color name="category_video">#00695C</color>
+
+    <!-- Background color for the buy music category -->
+    <color name="category_buy">#E53935</color>
+
+    <!-- Background color for the buy avtivity credit card category -->
+    <color name="category_credit">#66BB6A</color>
+
+    <!-- Background color for the buy activity Paypal category -->
+    <color name="category_paypal">#43A047</color>
+
+    <!-- Background color for the buy activity google category -->
+    <color name="category_google">#2E7D32</color>
+
+    <!-- Background color for the listen now activity google play category -->
+    <color name="category_googleplay">#FFCC80</color>
+
+    <!-- Background color for the listen now activity spotify category -->
+    <color name="category_spotify">#FFA726</color>
+
+    <!-- Background color for the listen now activity youtube category -->
+    <color name="category_youtube">#FFA726</color>
+
+    <!-- Background color for the listen now activity your library category -->
+    <color name="category_yourlibrary">#EF6C00</color>
+
+    <!-- Background color for the history activity artist category -->
+    <color name="category_artist">#EA80FC</color>
+
+    <!-- Background color for the history activity album category -->
+    <color name="category_album">#E040FB</color>
+
+    <!-- Background color for the history activity play category -->
+    <color name="category_play">#D500F9</color>
+
+    <!-- Background color for the history activity your purhcase category -->
+    <color name="category_purchase">#D500F9</color>
+
+    <!-- Background color for the lyrics activity MusixMatch category -->
+    <color name="category_musixmatch">#8C9EFF</color>
+
+    <!-- Background color for the lyrics activity Lyrics World category -->
+    <color name="category_lyricsworld">#536DFE</color>
+
+    <!-- Background color for the lyrics activity AZLyrics category -->
+    <color name="category_azlyrics">#3D5AFE</color>
+
+    <!-- Background color for the lyrics activity Song Lyrics category -->
+    <color name="category_songlyrics">#304FFE</color>
+
+    <!-- Background color for the video activity YouTube category -->
+    <color name="category_vyoutube">#64FFDA</color>
+
+    <!-- Background color for the video activity GodTube category -->
+    <color name="category_godtube">#1DE9B6</color>
+
+    <!-- Background color for the video activity Apple category -->
+    <color name="category_apple">#00BFA5</color>
+
+
+</resources>

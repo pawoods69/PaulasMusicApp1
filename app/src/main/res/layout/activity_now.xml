@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.paulasmusicapp.NowActivity">
+
+    <Button
+        android:id="@+id/googleplay"
+        style="@style/CategoryStyle"
+        android:text="Google play"
+        android:background="@color/category_googleplay"/>
+
+    <Button
+        android:id="@+id/spotify"
+        style="@style/CategoryStyle"
+        android:text="Spotify"
+        android:background="@color/category_spotify"/>
+
+    <Button
+        android:id="@+id/youtube"
+        style="@style/CategoryStyle"
+        android:text="You Tube"
+        android:background="@color/category_youtube" />
+
+    <Button
+        android:id="@+id/yourlibrary"
+        style="@style/CategoryStyle"
+        android:text="Your Library"
+        android:background="@color/category_yourlibrary" />
+
+
+</LinearLayout>

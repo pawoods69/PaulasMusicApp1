@@ -1,0 +1,73 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">PaulaMusicApp</string>
+
+    <!-- Category name for what the listener wants to hear now[CHAR LIMIT=20] -->
+    <string name="category_listen_now">Listen Now</string>
+
+    <!-- Category name for the artist history [CHAR LIMIT=20] -->
+    <string name="category_history">History</string>
+
+    <!-- Category name for the Lyrics for the song [CHAR LIMIT=20] -->
+    <string name="category_lyrics">Lyrics</string>
+
+    <!-- Category name for the song videos [CHAR LIMIT=20] -->
+    <string name="category_video">Video</string>
+
+    <!-- Category name for buying the song [CHAR LIMIT=20] -->
+    <string name="category_buy">Buy</string>
+
+    <!-- Category name for credit card method of pay [CHAR LIMIT=20] -->
+    <string name="category_credit">Credit</string>
+
+    <!-- Category name for PayPal method of pay [CHAR LIMIT=20] -->
+    <string name="category_paypal">PayPal</string>
+
+    <!-- Category name for google credit method of pay [CHAR LIMIT=20] -->
+    <string name="category_google">Google Credit</string>
+
+    <!-- Category name for listen now google play  [CHAR LIMIT=20] -->
+    <string name="googleplay">Google Play</string>
+
+    <!-- Category name for listen now spotify  [CHAR LIMIT=20] -->
+    <string name="category_spotify">Spotify</string>
+
+    <!-- Category name for listen now YouTube [CHAR LIMIT=20] -->
+    <string name="category_youtube">YouTube</string>
+
+    <!-- Category name for listen now your library  [CHAR LIMIT=20] -->
+    <string name="category_yourlibrary">Your Library</string>
+
+    <!-- Category name for artist history  [CHAR LIMIT=20] -->
+    <string name="category_artist">Artist History</string>
+
+    <!-- Category name for album history  [CHAR LIMIT=20] -->
+    <string name="category_album">Album History</string>
+
+    <!-- Category name for playback history  [CHAR LIMIT=20] -->
+    <string name="category_play">Play History</string>
+
+    <!-- Category name for purchase history  [CHAR LIMIT=20] -->
+    <string name="category_purchase">Purchase History</string>
+
+    <!-- Category name for Lyrics by MusixMatch [CHAR LIMIT=20] -->
+    <string name="category_musixmatch">MusixMatch</string>
+
+    <!-- Category name for Lyrics by Lyrics World [CHAR LIMIT=20] -->
+    <string name="category_lyricsworld">Lyrics World</string>
+
+    <!-- Category name for Lyrics by AZLyrics [CHAR LIMIT=20] -->
+    <string name="category_azlyrics">AZLyrics</string>
+
+    <!-- Category name for Lyrics by Song Lyrics [CHAR LIMIT=20] -->
+    <string name="category_songlyrics">Song Lyrics</string>
+
+    <!-- Category name for videos on YouTube [CHAR LIMIT=20] -->
+    <string name="category_vyoutube">Video YouTube</string>
+
+    <!-- Category name for videos on GodTube [CHAR LIMIT=20] -->
+    <string name="category_godtube">Video GodTube</string>
+
+    <!-- Category name for videos on Apple [CHAR LIMIT=20] -->
+    <string name="category_apple">Video Apple</string>
+</resources>
