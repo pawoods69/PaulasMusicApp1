@@ -14,6 +14,7 @@
         android:layout_height="wrap_content"
         android:text="Select one to obtain the history"
         android:textSize="30dp"/>
+    
     <Button
         android:id="@+id/artist"
         style="@style/CategoryStyle"
