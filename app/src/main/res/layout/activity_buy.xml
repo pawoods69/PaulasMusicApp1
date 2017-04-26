@@ -7,6 +7,12 @@ android:layout_width="match_parent"
 android:layout_height="match_parent"
 android:orientation="vertical"
 tools:context="com.example.android.paulasmusicapp.BuyActivity">
+    
+       <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="How would you like to pay for your music"
+        android:textSize="30dp"/>
 
 <Button
     android:id="@+id/credit"
