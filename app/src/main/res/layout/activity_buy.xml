@@ -12,7 +12,7 @@ tools:context="com.example.android.paulasmusicapp.BuyActivity">
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="How would you like to pay for your music"
-        android:textSize="30dp"/>
+        android:textSize="30sp"/>
 
 <Button
     android:id="@+id/credit"
